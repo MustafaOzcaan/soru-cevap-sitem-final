@@ -1,0 +1,253 @@
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\csc.exe
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\System.Collections.Immutable.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\vbc.exe
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\VBCSCompiler.exe
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\VBCSCompiler.exe.config
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\myoBlog29API.dll.config
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\myoBlog29API.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\myoBlog29API.pdb
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\EntityFramework.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\EntityFramework.SqlServer.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Newtonsoft.Json.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Net.Http.Formatting.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.WebHost.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\EntityFramework.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\EntityFramework.SqlServer.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Newtonsoft.Json.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Net.Http.Formatting.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.WebHost.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\obj\Debug\myoBlog29API.csprojResolveAssemblyReference.cache
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\obj\Debug\myoBlog29API.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\obj\Debug\myoBlog29API.pdb
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Web.Infrastructure.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Swashbuckle.Core.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\WebActivatorEx.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Cors.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Security.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Owin.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Cors.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.Owin.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Cors.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Security.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.Owin.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\obj\Debug\myoBlog29API.csproj.AssemblyReference.cache
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\obj\Debug\myoBlog29API.csproj.CoreCompileInputs.cache
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\obj\Debug\myoBlog29API.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\obj\Debug\myoBlog29API.pdb
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\roslyn\csc.exe
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\roslyn\vbc.exe
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\myoBlog29API.dll.config
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\myoBlog29API.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\myoBlog29API.pdb
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\EntityFramework.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\EntityFramework.SqlServer.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.Owin.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.Owin.Security.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Newtonsoft.Json.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Owin.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Swashbuckle.Core.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\System.Net.Http.Formatting.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\System.Web.Cors.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\System.Web.Http.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\System.Web.Http.Owin.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\System.Web.Http.WebHost.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\WebActivatorEx.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\EntityFramework.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\EntityFramework.SqlServer.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.Owin.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.Owin.Security.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\Newtonsoft.Json.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\System.Net.Http.Formatting.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\System.Web.Http.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\System.Web.Http.Owin.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\bin\System.Web.Http.WebHost.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\myoBlog29API\obj\Debug\myoBlog29API.csproj.CopyComplete
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\roslyn\csc.exe
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\roslyn\vbc.exe
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\myoBlog29API.dll.config
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\myoBlog29API.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\myoBlog29API.pdb
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\EntityFramework.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\EntityFramework.SqlServer.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.Owin.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.Owin.Security.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Newtonsoft.Json.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Owin.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Swashbuckle.Core.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\System.Net.Http.Formatting.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\System.Web.Cors.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\System.Web.Http.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\System.Web.Http.Owin.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\System.Web.Http.WebHost.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\WebActivatorEx.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\EntityFramework.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\EntityFramework.SqlServer.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.Owin.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.Owin.Security.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\Newtonsoft.Json.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\System.Net.Http.Formatting.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\System.Web.Http.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\System.Web.Http.Owin.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\bin\System.Web.Http.WebHost.xml
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\obj\Debug\myoBlog29API.csproj.AssemblyReference.cache
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\obj\Debug\myoBlog29API.csproj.CoreCompileInputs.cache
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\obj\Debug\myoBlog29API.csproj.CopyComplete
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\obj\Debug\myoBlog29API.dll
+C:\Users\Atilgan\Desktop\Anket\API\myoBlog29API\obj\Debug\myoBlog29API.pdb
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\roslyn\csc.exe
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\roslyn\vbc.exe
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\myoBlog29API.dll.config
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\myoBlog29API.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\myoBlog29API.pdb
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\EntityFramework.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\EntityFramework.SqlServer.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.Owin.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.Owin.Security.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Newtonsoft.Json.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Owin.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Swashbuckle.Core.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\System.Net.Http.Formatting.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\System.Web.Cors.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\System.Web.Http.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\System.Web.Http.Owin.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\System.Web.Http.WebHost.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\WebActivatorEx.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\EntityFramework.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\EntityFramework.SqlServer.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.Owin.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.Owin.Security.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\Newtonsoft.Json.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\System.Net.Http.Formatting.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\System.Web.Http.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\System.Web.Http.Owin.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\bin\System.Web.Http.WebHost.xml
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\obj\Debug\myoBlog29API.csproj.AssemblyReference.cache
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\obj\Debug\myoBlog29API.csproj.CoreCompileInputs.cache
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\obj\Debug\myoBlog29API.csproj.CopyComplete
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\obj\Debug\myoBlog29API.dll
+C:\Users\Atilgan\Desktop\Yeni klasör\Anket\API\myoBlog29API\obj\Debug\myoBlog29API.pdb
+C:\Users\Atilgan\Desktop\API\myoBlog29API\obj\Debug\myoBlog29API.csproj.AssemblyReference.cache
+C:\Users\Atilgan\Desktop\API\myoBlog29API\obj\Debug\myoBlog29API.csproj.CoreCompileInputs.cache
+C:\Users\Atilgan\Desktop\API\myoBlog29API\obj\Debug\myoBlog29API.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\obj\Debug\myoBlog29API.pdb
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\roslyn\csc.exe
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\roslyn\vbc.exe
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\myoBlog29API.dll.config
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\myoBlog29API.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\myoBlog29API.pdb
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\EntityFramework.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\EntityFramework.SqlServer.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.Owin.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.Owin.Security.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Newtonsoft.Json.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Owin.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Swashbuckle.Core.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\System.Net.Http.Formatting.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\System.Web.Cors.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\System.Web.Http.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\System.Web.Http.Owin.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\System.Web.Http.WebHost.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\WebActivatorEx.dll
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\EntityFramework.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\EntityFramework.SqlServer.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.Owin.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.Owin.Security.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\Newtonsoft.Json.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\System.Net.Http.Formatting.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\System.Web.Http.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\System.Web.Http.Owin.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\bin\System.Web.Http.WebHost.xml
+C:\Users\Atilgan\Desktop\API\myoBlog29API\obj\Debug\myoBlog29API.csproj.CopyComplete

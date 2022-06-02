@@ -1,0 +1,68 @@
+<div *ngIf="makale">
+
+  <mat-card class="example-card mycard">
+    <mat-card-subtitle>{{makale.KategoriAdi}}</mat-card-subtitle>
+    <mat-card-title>{{makale.Baslik}}</mat-card-title>
+    <mat-card-content>
+      <p>{{makale.Icerik}}</p>
+      <br>
+      <mat-card-subtitle>{{makale.Tarih | date:'dd.MM.yyyy HH:mm:ss'}}</mat-card-subtitle>
+
+    </mat-card-content>
+    <mat-divider inset></mat-divider>
+    <mat-card-actions>
+      <button [routerLink]="['/makale',makale.MakaleId]" mat-button>Oku</button>
+      <button [routerLink]="['/uyemakale',makale.UyeId]" mat-button>Yazan: {{makale.UyeKadi}}</button>
+    </mat-card-actions>
+  </mat-card>
+</div>
+<div *ngIf="makale.DogruCevapId != null">
+  <h1 style="margin-top: 50px;">Seçilen Cevap</h1>
+  <hr>
+  <mat-card>
+    <mat-card-title>{{secilenYorum.KullaniciAdi}}</mat-card-title>
+    <p>{{secilenYorum.YorumIcerik}}</p>
+    <mat-card-actions>
+      <button mat-button>{{secilenYorum.Tarih | date:'dd.MM.yyyy HH:mm:ss'}}</button>
+      <button *ngIf="secilenYorum.UyeId == uyeId" (click)="Kaldir(makale)" mat-raised-button color="primary"
+        mat-button>Secilen yorumu kaldır</button>
+      <button *ngIf="secilenYorum.UyeId == uyeId" (click)="YorumSil(secilenYorum)" mat-raised-button color="primary"
+        mat-button>Sil</button>
+      <button *ngIf="apiServis.yetkiKontrol(['Admin'])" (click)="YorumSil(secilenYorum)" mat-raised-button color="primary"
+        mat-button>Admin Yorum Sil</button>
+
+
+    </mat-card-actions>
+  </mat-card>
+</div>
+
+
+<h1 style="margin-top: 50px;">Yorumlar</h1>
+<hr>
+<h3 style="color:red" *ngIf="!apiServis.oturumKontrol()">Yorum Yazabilmek İçin <a href="#"
+    [routerLink]="['/login']">Oturum Açınız</a></h3>
+<div *ngIf="apiServis.oturumKontrol()">
+  <mat-form-field appearance="outline">
+    <mat-label>Yorumunuz</mat-label>
+    <textarea matInput placeholder="Yorumunuz" #yorumMetni></textarea>
+  </mat-form-field>
+
+  <button mat-raised-button color="primary" (click)="YorumEkle(yorumMetni.value)">Yorum Ekle</button>
+</div>
+<div style="margin-top: 15px;" *ngFor="let yorum of yorumlar">
+  <mat-card>
+    <mat-card-title>{{yorum.KullaniciAdi}}</mat-card-title>
+    <p>{{yorum.YorumIcerik}}</p>
+    <mat-card-actions>
+      <button mat-button>{{yorum.Tarih | date:'dd.MM.yyyy HH:mm:ss'}}</button>
+      <button *ngIf="yorum.UyeId == uyeId" (click)="DogruCevapSec(makale,yorum.YorumId)" mat-raised-button
+        color="primary" mat-button>Dogru Cevap Olarak Seç</button>
+      <button *ngIf="yorum.UyeId == uyeId" (click)="YorumSil(yorum)" mat-raised-button color="primary"
+        mat-button>Sil</button>
+      <button *ngIf="apiServis.yetkiKontrol(['Admin'])" (click)="YorumSil(yorum)" mat-raised-button color="primary"
+        mat-button>Admin Yorum Sil</button>
+
+
+    </mat-card-actions>
+  </mat-card>
+</div>

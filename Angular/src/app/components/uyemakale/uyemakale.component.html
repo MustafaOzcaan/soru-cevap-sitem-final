@@ -1,0 +1,23 @@
+<div class="container">
+  <h1>{{uye?.KullaniciAdi}} Adlı Üyeye Ait Makaleler</h1>
+  <h3 style="color:red" *ngIf="makaleler?.length==0">Henüz Bu Üye Makale Eklenmedi!</h3>
+  <div *ngFor="let makale of makaleler">
+    <mat-card style="margin-top: 15px;" class="example-card mycard" >
+      <mat-card-subtitle>{{makale.KategoriAdi}}</mat-card-subtitle>
+      <mat-card-title>{{makale.Baslik}}</mat-card-title>
+      <mat-card-content>
+        <p>{{makale.Icerik}}</p>
+        <br>
+        <mat-card-subtitle>{{makale.Tarih | date:'dd.MM.yyyy HH:mm:ss'}}</mat-card-subtitle>
+        
+      </mat-card-content>
+      <mat-divider inset></mat-divider>
+      <mat-card-actions>
+        <button  [routerLink]="['/makale',makale.MakaleId]"mat-button>Oku</button>
+        <button  [routerLink]="['/uyemakale',makale.UyeId]" mat-button>Yazan: {{makale.UyeKadi}}</button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+
+
+</div>

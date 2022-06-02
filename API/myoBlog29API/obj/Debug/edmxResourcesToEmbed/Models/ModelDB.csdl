@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyoBlog29DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="MyoBlog29DBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Etiket" EntityType="MyoBlog29DBModel.Etiket" />
+    <EntitySet Name="Kategori" EntityType="MyoBlog29DBModel.Kategori" />
+    <EntitySet Name="Makale" EntityType="MyoBlog29DBModel.Makale" />
+    <EntitySet Name="Uye" EntityType="MyoBlog29DBModel.Uye" />
+    <EntitySet Name="Yorum" EntityType="MyoBlog29DBModel.Yorum" />
+    <AssociationSet Name="FK_Makale_ToKategori" Association="MyoBlog29DBModel.FK_Makale_ToKategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="Makale" EntitySet="Makale" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Makale_Uye" Association="MyoBlog29DBModel.FK_Makale_Uye">
+      <End Role="Uye" EntitySet="Uye" />
+      <End Role="Makale" EntitySet="Makale" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Yorum_Makale" Association="MyoBlog29DBModel.FK_Yorum_Makale">
+      <End Role="Makale" EntitySet="Makale" />
+      <End Role="Yorum" EntitySet="Yorum" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Yorum_Uye" Association="MyoBlog29DBModel.FK_Yorum_Uye">
+      <End Role="Uye" EntitySet="Uye" />
+      <End Role="Yorum" EntitySet="Yorum" />
+    </AssociationSet>
+    <AssociationSet Name="MakaleEtiket" Association="MyoBlog29DBModel.MakaleEtiket">
+      <End Role="Etiket" EntitySet="Etiket" />
+      <End Role="Makale" EntitySet="Makale" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Etiket">
+    <Key>
+      <PropertyRef Name="EtiketId" />
+    </Key>
+    <Property Name="EtiketId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EtiketAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Makale" Relationship="MyoBlog29DBModel.MakaleEtiket" FromRole="Etiket" ToRole="Makale" />
+  </EntityType>
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="KategoriId" />
+    </Key>
+    <Property Name="KategoriId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KategoriAdi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Makale" Relationship="MyoBlog29DBModel.FK_Makale_ToKategori" FromRole="Kategori" ToRole="Makale" />
+  </EntityType>
+  <EntityType Name="Makale">
+    <Key>
+      <PropertyRef Name="MakaleId" />
+    </Key>
+    <Property Name="MakaleId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Baslik" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Icerik" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Foto" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Tarih" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="KategoriId" Type="Int32" Nullable="false" />
+    <Property Name="UyeId" Type="Int32" Nullable="false" />
+    <Property Name="Okunma" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kategori" Relationship="MyoBlog29DBModel.FK_Makale_ToKategori" FromRole="Makale" ToRole="Kategori" />
+    <NavigationProperty Name="Uye" Relationship="MyoBlog29DBModel.FK_Makale_Uye" FromRole="Makale" ToRole="Uye" />
+    <NavigationProperty Name="Yorum" Relationship="MyoBlog29DBModel.FK_Yorum_Makale" FromRole="Makale" ToRole="Yorum" />
+    <NavigationProperty Name="Etiket" Relationship="MyoBlog29DBModel.MakaleEtiket" FromRole="Makale" ToRole="Etiket" />
+  </EntityType>
+  <EntityType Name="Uye">
+    <Key>
+      <PropertyRef Name="UyeId" />
+    </Key>
+    <Property Name="UyeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KullaniciAdi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Sifre" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AdSoyad" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Foto" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="UyeAdmin" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Makale" Relationship="MyoBlog29DBModel.FK_Makale_Uye" FromRole="Uye" ToRole="Makale" />
+    <NavigationProperty Name="Yorum" Relationship="MyoBlog29DBModel.FK_Yorum_Uye" FromRole="Uye" ToRole="Yorum" />
+  </EntityType>
+  <EntityType Name="Yorum">
+    <Key>
+      <PropertyRef Name="YorumId" />
+    </Key>
+    <Property Name="YorumId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="YorumIcerik" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="UyeId" Type="Int32" Nullable="false" />
+    <Property Name="MakaleId" Type="Int32" Nullable="false" />
+    <Property Name="Tarih" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Makale" Relationship="MyoBlog29DBModel.FK_Yorum_Makale" FromRole="Yorum" ToRole="Makale" />
+    <NavigationProperty Name="Uye" Relationship="MyoBlog29DBModel.FK_Yorum_Uye" FromRole="Yorum" ToRole="Uye" />
+  </EntityType>
+  <Association Name="FK_Makale_ToKategori">
+    <End Type="MyoBlog29DBModel.Kategori" Role="Kategori" Multiplicity="1" />
+    <End Type="MyoBlog29DBModel.Makale" Role="Makale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="KategoriId" />
+      </Principal>
+      <Dependent Role="Makale">
+        <PropertyRef Name="KategoriId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Makale_Uye">
+    <End Type="MyoBlog29DBModel.Uye" Role="Uye" Multiplicity="1" />
+    <End Type="MyoBlog29DBModel.Makale" Role="Makale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Uye">
+        <PropertyRef Name="UyeId" />
+      </Principal>
+      <Dependent Role="Makale">
+        <PropertyRef Name="UyeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Yorum_Makale">
+    <End Type="MyoBlog29DBModel.Makale" Role="Makale" Multiplicity="1" />
+    <End Type="MyoBlog29DBModel.Yorum" Role="Yorum" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Makale">
+        <PropertyRef Name="MakaleId" />
+      </Principal>
+      <Dependent Role="Yorum">
+        <PropertyRef Name="MakaleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Yorum_Uye">
+    <End Type="MyoBlog29DBModel.Uye" Role="Uye" Multiplicity="1" />
+    <End Type="MyoBlog29DBModel.Yorum" Role="Yorum" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Uye">
+        <PropertyRef Name="UyeId" />
+      </Principal>
+      <Dependent Role="Yorum">
+        <PropertyRef Name="UyeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="MakaleEtiket">
+    <End Type="MyoBlog29DBModel.Etiket" Role="Etiket" Multiplicity="*" />
+    <End Type="MyoBlog29DBModel.Makale" Role="Makale" Multiplicity="*" />
+  </Association>
+</Schema>

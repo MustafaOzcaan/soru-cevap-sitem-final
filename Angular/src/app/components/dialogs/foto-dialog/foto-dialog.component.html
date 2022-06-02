@@ -1,0 +1,10 @@
+<mat-toolbar color="primary" class="mat-elevation-z6">
+  <span>Fotoğraf Güncelle</span>
+</mat-toolbar>
+<div class="container">
+  <img [src]="secilenFoto" style="width: 200px;" />
+  <input type="file" name="" id="" (change)="FotoSec($event)" #foto hidden="true">
+  <p>&nbsp;</p>
+  <button mat-raised-button color="primary" (click)="foto.click()">Fotoğraf Seç</button>&nbsp;
+  <button mat-raised-button color="primary" (click)="dialogRef.close(ogrFoto)" [disabled]="!secilenFoto">Kaydet</button>
+</div>
